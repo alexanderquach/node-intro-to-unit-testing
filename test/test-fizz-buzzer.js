@@ -24,4 +24,4 @@ describe('fizzBuzzer', function() {
       }).to.throw(Error);
     });
   });
-}
+});
